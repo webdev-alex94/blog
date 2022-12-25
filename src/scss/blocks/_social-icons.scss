@@ -1,0 +1,13 @@
+.social__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social__icons-item {
+    margin-right: 30px;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
